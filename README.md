@@ -1,2 +1,2 @@
-# QA-
-Manual and Automation testing
+# QA
+Manual testing course
